@@ -1,0 +1,35 @@
+D:\Servers\Плагины и т.п\CommandME\CommandME\bin\Debug\CommandSamp.dll
+D:\Servers\Плагины и т.п\CommandME\CommandME\bin\Debug\CommandSamp.pdb
+D:\Servers\Плагины и т.п\CommandME\CommandME\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Servers\Плагины и т.п\CommandME\CommandME\bin\Debug\Assembly-CSharp.dll
+D:\Servers\Плагины и т.п\CommandME\CommandME\bin\Debug\Rocket.API.dll
+D:\Servers\Плагины и т.п\CommandME\CommandME\bin\Debug\Rocket.Core.dll
+D:\Servers\Плагины и т.п\CommandME\CommandME\bin\Debug\Rocket.Unturned.dll
+D:\Servers\Плагины и т.п\CommandME\CommandME\bin\Debug\UnityEngine.dll
+D:\Servers\Плагины и т.п\CommandME\CommandME\bin\Debug\Newtonsoft.Json.dll
+D:\Servers\Плагины и т.п\CommandME\CommandME\obj\Debug\CommandME.csprojResolveAssemblyReference.cache
+D:\Servers\Плагины и т.п\CommandME\CommandME\obj\Debug\CommandSamp.dll
+D:\Servers\Плагины и т.п\CommandME\CommandME\obj\Debug\CommandSamp.pdb
+D:\Servers\Плагины и т.п\MyPlugins\CommandME\CommandME\bin\Debug\Newtonsoft.Json.dll
+D:\Servers\Плагины и т.п\MyPlugins\CommandME\CommandME\obj\Debug\CommandME.csprojAssemblyReference.cache
+D:\Servers\Плагины и т.п\MyPlugins\CommandME\CommandME\obj\Debug\CommandME.csproj.CoreCompileInputs.cache
+D:\Servers\Плагины и т.п\MyPlugins\CommandME\CommandME\obj\Debug\CommandME.csproj.CopyComplete
+D:\Servers\Плагины и т.п\MyPlugins\CommandME\CommandME\bin\Debug\CommandSamp.dll
+D:\Servers\Плагины и т.п\MyPlugins\CommandME\CommandME\bin\Debug\CommandSamp.pdb
+D:\Servers\Плагины и т.п\MyPlugins\CommandME\CommandME\obj\Debug\CommandSamp.dll
+D:\Servers\Плагины и т.п\MyPlugins\CommandME\CommandME\obj\Debug\CommandSamp.pdb
+E:\Servers\Плагины и т.п\MyPlugins\CommandSAMP\CommandSAMP\bin\Debug\CommandSamp.dll
+E:\Servers\Плагины и т.п\MyPlugins\CommandSAMP\CommandSAMP\bin\Debug\CommandSamp.pdb
+E:\Servers\Плагины и т.п\MyPlugins\CommandSAMP\CommandSAMP\bin\Debug\Newtonsoft.Json.dll
+E:\Servers\Плагины и т.п\MyPlugins\CommandSAMP\CommandSAMP\obj\Debug\CommandME.csprojAssemblyReference.cache
+E:\Servers\Плагины и т.п\MyPlugins\CommandSAMP\CommandSAMP\obj\Debug\CommandME.csproj.CoreCompileInputs.cache
+E:\Servers\Плагины и т.п\MyPlugins\CommandSAMP\CommandSAMP\obj\Debug\CommandME.csproj.CopyComplete
+E:\Servers\Плагины и т.п\MyPlugins\CommandSAMP\CommandSAMP\obj\Debug\CommandSamp.dll
+E:\Servers\Плагины и т.п\MyPlugins\CommandSAMP\CommandSAMP\obj\Debug\CommandSamp.pdb
+F:\Plugins\MyPlugins\CommandSAMP\CommandSAMP\bin\Debug\CommandSamp.dll
+F:\Plugins\MyPlugins\CommandSAMP\CommandSAMP\bin\Debug\CommandSamp.pdb
+F:\Plugins\MyPlugins\CommandSAMP\CommandSAMP\bin\Debug\Newtonsoft.Json.dll
+F:\Plugins\MyPlugins\CommandSAMP\CommandSAMP\obj\Debug\CommandME.csprojAssemblyReference.cache
+F:\Plugins\MyPlugins\CommandSAMP\CommandSAMP\obj\Debug\CommandME.csproj.CopyComplete
+F:\Plugins\MyPlugins\CommandSAMP\CommandSAMP\obj\Debug\CommandSamp.dll
+F:\Plugins\MyPlugins\CommandSAMP\CommandSAMP\obj\Debug\CommandSamp.pdb
